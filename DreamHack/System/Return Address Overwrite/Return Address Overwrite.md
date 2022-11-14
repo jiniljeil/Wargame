@@ -109,4 +109,4 @@ ncp.interactive()
 
 ## Flag
 
-<img src="images/flag.png">
+<img src="images/flag.png" height="200px">
